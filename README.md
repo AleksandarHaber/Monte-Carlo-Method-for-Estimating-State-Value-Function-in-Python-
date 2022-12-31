@@ -1,4 +1,6 @@
-# Monte-Carlo-Method-for-Estimating-State-Value-Function-in-Python-
+# Monte-Carlo-Method-for-Estimating-State-Value-Function-in-Python-Reinforcement Learning Tutorial
+
+Reinforcement Learning Tutorial
 
 Author: Aleksandar Haber
 Date: December 2022
